@@ -1,0 +1,920 @@
+#EXTM3U
+ 
+
+ 
+
+#EXTINF:-1, " group-title="TV ABERTA",RedeTV!
+http://198.255.23.18:2095/streams/33_.m3u8
+
+#EXTINF:-1," group-title="TV ABERTA",RedeTV!
+http://198.255.23.18:2095/streams/34_.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA",GLOBO SP
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_964/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA",GLOBO RJ
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_964/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1,group-title="TV ABERTA" , Band
+http://198.255.23.18:2095/streams/13_.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT SD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+
+#EXTINF:-1,REDE TV SP" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+
+#EXTINF:-1,"group-title="CANAIS FECHADOS",BBB 20
+https://origin.canaismax.com/live/bbb01hd/video.m3u8?md5=NIMpz_9Y2unspDD0tRp1ew&expires=1579630057
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,A&E 
+http://198.255.23.18:2095/streams/157_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,AMC
+http://198.255.23.18:2095/streams/158_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" , AXN
+http://198.255.23.18:2095/streams/181_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" , Animal Planet
+http://198.255.23.18:2095/streams/98_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" , Animal Planet
+http://198.255.23.18:2095/streams/99_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" , Arte 1
+http://198.255.23.18:2095/streams/147_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,BIS
+http://198.255.23.18:2095/streams/140_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Baby TV
+http://198.255.23.18:2095/streams/126_.m3u8
+
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Band News
+http://198.255.23.18:2095/streams/85_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Band Sports
+http://198.255.23.18:2095/streams/46_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Boomerang
+http://198.255.23.18:2095/streams/127_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Canal Brasil
+http://198.255.23.18:2095/streams/15_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Canal Rural
+http://198.255.23.18:2095/streams/17_.m3u8
+#EXTINF:-1,group-title="CANAIS FECHADOS" ,Cartoon Network
+http://198.255.23.18:2095/streams/128_.m3u8
+#EXTINF:-1 "group-title="CANAIS FECHADOS" ,Cinemax
+http://198.255.23.18:2095/streams/183_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Cinemax
+http://198.255.23.18:2095/streams/184_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Combate
+http://198.255.23.18:2095/streams/49_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Comedy Central
+http://198.255.23.18:2095/streams/148_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Comedy Central
+http://198.255.23.18:2095/streams/149_.m3u8
+
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Curta!
+http://198.255.23.18:2095/streams/20_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Discovery H&H
+http://198.255.23.18:2095/streams/100_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Discovery Channel
+http://198.255.23.18:2095/streams/102_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Discovery Channel
+http://198.255.23.18:2095/streams/103_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Discovery Kids
+http://198.255.23.18:2095/streams/138_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Discovery Science
+http://198.255.23.18:2095/streams/121_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Discovery Theater
+http://198.255.23.18:2095/streams/104_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Discovery Turbo
+http://198.255.23.18:2095/streams/106_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Discovery Turbo
+http://198.255.23.18:2095/streams/107_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Discovery World
+http://198.255.23.18:2095/streams/108_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Disney Channel
+http://198.255.23.18:2095/streams/129_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Disney JR
+http://198.255.23.18:2095/streams/130_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Disney XD
+http://198.255.23.18:2095/streams/131_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,FX
+http://198.255.23.18:2095/streams/112_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,FX
+http://198.255.23.18:2095/streams/113_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Fish TV
+http://198.255.23.18:2095/streams/109_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Food Network
+http://198.255.23.18:2095/streams/111_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Fox
+http://198.255.23.18:2095/streams/161_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Fox
+http://198.255.23.18:2095/streams/162_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Fox Life
+http://198.255.23.18:2095/streams/163_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Fox Life
+http://198.255.23.18:2095/streams/164_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Fox Premium 1
+http://198.255.23.18:2095/streams/165_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Fox Premium 1
+http://198.255.23.18:2095/streams/166_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Fox Premium 2
+http://198.255.23.18:2095/streams/167_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" Fox Premium 2
+http://198.255.23.18:2095/streams/168_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Fox Sports
+https://origin.canaismax.com/mylive/foxsportshd/video.m3u8?md5=RLN-uxW_HHuBAKKFJdSfsQ&expires=1579758007
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Fox Sports
+http://198.255.23.18:2095/streams/56_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Fox Sports 2
+https://origin.canaismax.com/live/foxsports2hd/video.m3u8?md5=zN2WSXxLYchMj0GFa4-84Q&expires=1579758098
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,GNT
+http://198.255.23.18:2095/streams/150_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,GloboNews
+http://198.255.23.18:2095/streams/84_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Gloob
+http://198.255.23.18:2095/streams/132_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Gloob
+http://198.255.23.18:2095/streams/133_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,HBO
+http://198.255.23.18:2095/streams/185_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,HBO
+http://198.255.23.18:2095/streams/186_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,HBO 2
+http://198.255.23.18:2095/streams/187_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,HBO 2
+http://198.255.23.18:2095/streams/188_.m3u8
+#EXTINF:-1," group-title="CANAIS FECHADOS" ,HBO Family
+http://198.255.23.18:2095/streams/193_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,HBO Family
+http://198.255.23.18:2095/streams/194_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,HBO Plus
+http://198.255.23.18:2095/streams/189_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,HBO Plus
+http://198.255.23.18:2095/streams/190_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,HBO Signature
+http://198.255.23.18:2095/streams/191_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,HBO Signature
+http://198.255.23.18:2095/streams/192_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,History
+http://198.255.23.18:2095/streams/114_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,History
+http://198.255.23.18:2095/streams/115_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,History 2
+http://198.255.23.18:2095/streams/223_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,ID
+http://198.255.23.18:2095/streams/116_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Lifetime
+http://198.255.23.18:2095/streams/169_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,MTV
+http://198.255.23.18:2095/streams/141_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Mais Globosat
+http://198.255.23.18:2095/streams/151_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Max
+http://198.255.23.18:2095/streams/195_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" Max
+http://198.255.23.18:2095/streams/196_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Max Prime
+http://198.255.23.18:2095/streams/197_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Megapix
+http://198.255.23.18:2095/streams/171_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Multishow
+http://198.255.23.18:2095/streams/143_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,NatGeo Kids
+http://198.255.23.18:2095/streams/134_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Natgeo Wild
+http://198.255.23.18:2095/streams/119_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Natgeo Wild
+http://198.255.23.18:2095/streams/119_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,National Geographic
+http://198.255.23.18:2095/streams/117_.m3u8
+#EXTINF:-1," group-title="CANAIS FECHADOS" ,National Geographic
+http://198.255.23.18:2095/streams/118_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Nick Jr.
+http://198.255.23.18:2095/streams/139_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Nickelodeon
+http://198.255.23.18:2095/streams/135_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Off
+http://198.255.23.18:2095/streams/59_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Paramount
+http://198.255.23.18:2095/streams/172_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Premiere Clubes
+http://198.255.23.18:2095/streams/61_.m3u8
+#EXTINF:-1, "group-title="CANAIS FECHADOS" ,Premiere Clubes
+http://198.255.23.18:2095/streams/62_.m3u8
+#EXTINF:-1," group-title="CANAIS FECHADOS" ,Record News
+http://198.255.23.18:2095/streams/80_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Sony
+http://198.255.23.18:2095/streams/160_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Space
+http://198.255.23.18:2095/streams/200_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,SporTV
+http://198.255.23.18:2095/streams/70_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,SporTV
+http://198.255.23.18:2095/streams/71_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,SporTV 2
+http://198.255.23.18:2095/streams/72_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,SporTV 2
+http://198.255.23.18:2095/streams/73_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,SporTV 3
+http://198.255.23.18:2095/streams/74_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Syfy
+http://198.255.23.18:2095/streams/174_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,TBS
+http://198.255.23.18:2095/streams/175_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,TCM
+http://198.255.23.18:2095/streams/201_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,TLC
+http://198.255.23.18:2095/streams/122_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,TNT
+http://198.255.23.18:2095/streams/202_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,TNT Series
+http://198.255.23.18:2095/streams/176_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Telecine Action
+http://198.255.23.18:2095/streams/213_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Telecine Action
+http://198.255.23.18:2095/streams/214_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Telecine Cult
+http://198.255.23.18:2095/streams/203_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Telecine Cult
+http://198.255.23.18:2095/streams/203_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Telecine Fun
+http://198.255.23.18:2095/streams/205_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Telecine Fun
+http://198.255.23.18:2095/streams/205_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Telecine Pipoca
+http://198.255.23.18:2095/streams/207_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Telecine Pipoca
+http://198.255.23.18:2095/streams/208_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Telecine Premium
+http://198.255.23.18:2095/streams/209_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Telecine Premium
+http://198.255.23.18:2095/streams/210_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Telecine Touch
+http://198.255.23.18:2095/streams/211_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Telecine Touch
+http://198.255.23.18:2095/streams/212_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Tooncast
+http://198.255.23.18:2095/streams/222_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,VH1
+http://198.255.23.18:2095/streams/145_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,H1 Megahits
+http://198.255.23.18:2095/streams/146_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Warner Channel
+http://198.255.23.18:2095/streams/179_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Warner Channel
+http://198.255.23.18:2095/streams/180_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Woohoo
+http://198.255.23.18:2095/streams/154_.m3u8
+#EXTINF:-1,"group-title="CANAIS FECHADOS" ,Zoomoo
+http://198.255.23.18:2095/streams/137_.m3u8
+
+
+#EXTINF:-1,"group-title="CANAIS FECHADOS" FoxSports
+http://198.255.23.18:2095/streams/56_.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="MUSICAS",Multishow
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo=""group-title="MUSICAS" ,BIS
+http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",BadBoys for Life LEG
+http://topvod.tk/LHMTvPlay/BadBoys-for-Life?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Jumanji: The Next Level LEG
+http://topvod.tk/LHMTvPlay/Jumanji-3?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Herdeiro das Drogas
+http://hvergelmir.lhmtv.gq/stream/filmes/Inherit.the.Viper2020dub.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Frozen 2 LEG
+http://hvergelmir.lhmtv.gq/stream/filmes/frozen.2.2019.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",El Camino: Um Filme de Breaking Bad
+http://hvergelmir.lhmtv.gq/vod/server2/El.camino.a.breaking.bad.movie.2019.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Dois Papas
+http://hvergelmir.lhmtv.gq/vod/filmes/The.two.popes.2019.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Code 8: Renegados
+http://hvergelmir.lhmtv.gq/vod/filmes/Code.8.2019.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Esquadrao 6
+http://hvergelmir.lhmtv.gq/vod/filmes/esquadrao6.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Era uma Vez em… Hollywood
+http://midgard.lhmtv.gq/filmes/eraumavezemhollywood-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Klaus
+http://midgard.lhmtv.gq/filmes/klaus-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",It: A Coisa – Capitulo 2 HD SRv1
+http://midgard.lhmtv.gq/filmes/itcapitulodois-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Pesadelo
+http://midgard.lhmtv.gq/filmes/pesadelo-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Limbo: Entre o Ceu e o Inferno
+http://midgard.lhmtv.gq/filmes/limboentreoceueoinferno-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",As Panteras 2019
+http://midgard.lhmtv.gq/filmes/aspanterasts-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Malevola: Dona do Mal
+http://midgard.lhmtv.gq/filmes/malevoladonadomalts-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Coringa
+http://midgard.lhmtv.gq/filmes/coringats-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Crypto
+http://midgard.lhmtv.gq/filmes/crypto-dub-1080p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Rambo: Ate o Fim
+http://midgard.lhmtv.gq/filmes/ramboateofim-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Toy Story 4 HD
+http://midgard.lhmtv.gq/filmes/toystory4-dub-1080p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Annabelle 3: De Volta para Casa
+http://midgard.lhmtv.gq/filmes/annabelle3-dub-1080p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Ma
+http://midgard.lhmtv.gq/filmes/ma-dub-1080p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Rei Leao
+http://midgard.lhmtv.gq/filmes/reileaots-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Pets – A Vida Secreta dos Bichos 2
+http://midgard.lhmtv.gq/filmes/pets2ts-dub-720p.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Misterio no Mediterraneo
+http://midgard.lhmtv.gq/filmes/murdermystery-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",A Rebeliao
+http://midgard.lhmtv.gq/filmes/arebeliao-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes" ,Gloria Bell
+http://midgard.lhmtv.gq/filmes/gloriabell-dub-1080p.mp4?LHMTv
+#EXTINF:-1  tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Nas Trevas
+http://midgard.lhmtv.gq/filmes/nastrevas-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes"  ,Copias – De Volta a Vida
+http://midgard.lhmtv.gq/filmes/replicas-dub-720p.mp4?LHMTv
+#EXTINF:-1  tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",A Cinco Passos de voce
+http://midgard.lhmtv.gq/filmes/acincopassosdevoce-dub-720p.mp4?LHMTv
+#EXTINF:-1  tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Cinderela Pop
+http://midgard.lhmtv.gq/filmes/cinderelapop-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",X-Men: Fenix Negra
+http://midgard.lhmtv.gq/filmes/xmenfenixnegrats-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",A Maldicao da Chorona
+http://midgard.lhmtv.gq/filmes/amaldicaodachoronats-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Parque dos Sonhos
+http://midgard.lhmtv.gq/filmes/oparquedossonhosts-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",John Wick 3 – Parabellum
+http://midgard.lhmtv.gq/filmes/johnwick3ts-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Pokemon: Detetive Pikachu
+http://midgard.lhmtv.gq/filmes/detetivepikachu-dub-360p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Cemiterio Maldito
+http://midgard.lhmtv.gq/filmes/cemiteriomalditots-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Shazam
+http://midgard.lhmtv.gq/filmes/shazam-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Poderia Me Perdoar?
+http://midgard.lhmtv.gq/filmes/poderiameperdoar-dub-480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O 12 Homem
+http://midgard.lhmtv.gq/filmes/o12homem-dub-480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Soldado de Cristo
+http://midgard.lhmtv.gq/filmes/osoldadodecristo-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Capita Marvel
+http://midgard.lhmtv.gq/filmes/cptmarvel-dub-hdts.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Operacao Fronteira
+http://midgard.lhmtv.gq/filmes/operacaofronteira-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Alita: Anjo de Combate
+http://midgard.lhmtv.gq/filmes/alitaanjocombate-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",A Caminho de Casa
+http://midgard.lhmtv.gq/filmes/acaminhodecasa-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Poderia Me Perdoar?
+http://midgard.lhmtv.gq/filmes/poderiameperdoar-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Green Book – O Guia
+http://midgard.lhmtv.gq/filmes/greenbook-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",1964: O Brasil Entre Armas e Livros
+http://midgard.lhmtv.gq/filmes/1964ofilme-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes", MUsica e Amor
+http://midgard.lhmtv.gq/filmes/sexomusicaeamor-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",A Maquina de Lembrancas
+http://midgard.lhmtv.gq/filmes/amaquinadelembrancas-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Escape Room
+http://midgard.lhmtv.gq/filmes/escaperoom-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Justica – Entre a Lei e a Vinganca
+http://midgard.lhmtv.gq/filmes/justicaentrealeieavinganca-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Tudo Acaba Em Festa
+http://midgard.lhmtv.gq/filmes/tudoacabaemfesta-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Durante a Tormenta
+http://midgard.lhmtv.gq/filmes/duranteatormenta-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Holmes & Watson
+http://midgard.lhmtv.gq/filmes/holmesewatson-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Retorno de Mary Poppins
+http://midgard.lhmtv.gq/filmes/themarypoppinsreturn-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",A Quimica do Amor
+http://midgard.lhmtv.gq/filmes/aquimicadoamor-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Durante a Tormenta
+http://midgard.lhmtv.gq/filmes/duranteatormenta-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",IO
+http://midgard.lhmtv.gq/filmes/io2019-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",A Caminho de Casa
+http://midgard.lhmtv.gq/filmes/acaminhodecasa-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Minha Vida em Marte
+http://midgard.lhmtv.gq/filmes/minhavidaemmartei-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Menino que Descobriu o Vento
+http://midgard.lhmtv.gq/filmes/omeninoquedescobriuovento-dub-720p.mp4?LHMTv
+#EXTINF:-1,Maquinas Mortais
+http://midgard.lhmtv.gq/filmes/corridasmortais-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Bumblebee
+http://midgard.lhmtv.gq/filmes/buumblebee-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Homem Aranha: No Aranhaverso
+http://midgard.lhmtv.gq/filmes/aranhaverso-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Parque do Inferno
+http://midgard.lhmtv.gq/filmes/parquedoinferno-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Mulheres Alteradas
+http://midgard.lhmtv.gq/filmes/mulheresalteradas-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Sexta-feira Muito Louca
+http://midgard.lhmtv.gq/filmes/sextafeiramuitodoida-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Cadaver
+http://midgard.lhmtv.gq/filmes/ocadaver-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Sequestro Relampago
+http://midgard.lhmtv.gq/filmes/sequestrorelampago-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Primeiro Homem
+http://midgard.lhmtv.gq/filmes/oprimeirohomem-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Paradoxo Cloverfield
+http://midgard.lhmtv.gq/filmes/thecloverfieldparadox-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Intimidade Entre Estranhos
+http://midgard.lhmtv.gq/filmes/intimidadeentreestranhos-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Creed 2
+http://midgard.lhmtv.gq/filmes/creed2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Furia em Alto Mar
+http://midgard.lhmtv.gq/filmes/furiaemaltomar-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Podres de Ricos
+http://midgard.lhmtv.gq/filmes/podresdericos-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Circus Kane – O Circo dos Horrores
+http://midgard.lhmtv.gq/filmes//circuskaneocircodoshorrores-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Grande Circo Místico
+http://midgard.lhmtv.gq/filmes/ograndecircomistico-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",A Casa do Medo – Incidente em Ghostland
+http://midgard.lhmtv.gq/filmes/acasadomedoincedenteemghostland-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Grinch
+http://midgard.lhmtv.gq/filmes/ogrinch-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",A Morte do Superman
+http://midgard.lhmtv.gq/filmes/thedeathofsuperman-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Bohemian Rhapsody
+http://midgard.lhmtv.gq/filmes/bohemianrhapsody-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Amigos Alienigenas
+http://midgard.lhmtv.gq/filmes/amigosalienigenas-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Resgate no Oeste
+http://midgard.lhmtv.gq/filmes/resgatenooeste-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Legado Kennedy
+http://midgard.lhmtv.gq/filmes/olegadokennedy-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Os Domesticos
+http://midgard.lhmtv.gq/filmes/osdomesticos-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Johnny English 3.0
+http://midgard.lhmtv.gq/filmes/johnnyenglishstrikesagain-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Encolhi a Professora
+http://midgard.lhmtv.gq/filmes/encolhiaprofessora-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Maus Momentos no Hotel Royale
+http://midgard.lhmtv.gq/filmes/mausmomentosnohotelroyale-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Doutrinador
+http://midgard.lhmtv.gq/filmes/odoutrinador-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Goosebumps 2 – Halloween Assombrado
+http://midgard.lhmtv.gq/filmes/goosegumps2halloween-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Pelo Direito de Ser Feliz
+http://midgard.lhmtv.gq/filmes/pelodireitodeserfeliz-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Sansao – 2018
+http://midgard.lhmtv.gq/filmes/sansao2018-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Arcade – Voce vai entrar nesse jogo
+http://midgard.lhmtv.gq/filmes/arcadevocevaientrarnessejogo-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Resgate da Princesa
+http://midgard.lhmtv.gq/filmes/oresgatedaprincesa-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Talvez uma Historia de Amor
+http://midgard.lhmtv.gq/filmes/talvezumahistoriadeamor-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Candidato Honesto 2
+http://midgard.lhmtv.gq/filmes/ocandidatohonesto2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Meu Ex e um Espiao
+http://midgard.lhmtv.gq/filmes/meuexeumespiao-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Para Todos os Garotos que Ja Amei
+http://midgard.lhmtv.gq/filmes/paratodososgarotosqueamei-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Predador
+http://midgard.lhmtv.gq/filmes/opredador2018-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",A Freira
+http://midgard.lhmtv.gq/filmes/afreiranovohd-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Para Sempre Minha Garota
+http://midgard.lhmtv.gq/filmes/parasempreminhagarota-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Os Incriveis 2
+http://midgard.lhmtv.gq/filmes/osincriveis2new-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Slender Man: Pesadelo Sem Rosto
+http://midgard.lhmtv.gq/filmes/slenderman-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Constantine: Cidade dos Demonios
+http://midgard.lhmtv.gq/filmes/constantinecidadedemonio-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Todo Dia
+http://midgard.lhmtv.gq/filmes/tododia-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",DC Super Hero Girls: Lendas de Atlantida
+http://midgard.lhmtv.gq/filmes/dcsuperheroeslendasdeatlantida-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Tem Alienígenas no Meu Quarto
+http://midgard.lhmtv.gq/filmes/temalienigenasnomeuquarto-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Bleach – Filme
+http://midgard.lhmtv.gq/filmes/bleachmovie-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Fahrenheit 451
+http://midgard.lhmtv.gq/filmes/fahrenheit451-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",A Noite Devorou o Mundo
+http://midgard.lhmtv.gq/filmes/thenightseatstheworld-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Festa da Salsicha
+http://midgard.lhmtv.gq/filmes/festasalsicha-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Cinquenta Tons Mais Escuros SRv1
+http://midgard.lhmtv.gq/filmes/50tonsescuros-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Cinquenta Tons de Liberdade
+http://midgard.lhmtv.gq/filmes/fiftyshadesfreed-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Uma saida de Mestre
+http://midgard.lhmtv.gq/filmes/umasaidademestre-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Totalmente Sem Rumo
+http://midgard.lhmtv.gq/filmes/totalmentesemrumo-dub-720p.mp4?LHMTv
+#EXTINF:-1 vtvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Escorpiao Rei
+http://midgard.lhmtv.gq/filmes/oescorpiaorei-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",O Escorpiao Rei 2: A Saga De Um Guerreiro
+http://midgard.lhmtv.gq/filmes/oescorpiaorei2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",A Casa do Lago
+http://midgard.lhmtv.gq/filmes/acasadolago-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",A Batalha de Riddick
+http://midgard.lhmtv.gq/filmes/abatalhaderiddick-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Pequenos Guerreiros
+http://midgard.lhmtv.gq/filmes/pequenosguerreiros-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Doze e Demais
+http://midgard.lhmtv.gq/filmes/dozeehdemais-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Alma Perdida
+http://midgard.lhmtv.gq/filmes/almaperdida-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",60 Segundos
+http://midgard.lhmtv.gq/filmes/60segundos-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Sete Vidas
+http://midgard.lhmtv.gq/filmes/setevidas-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",500 dias com ela
+http://midgard.lhmtv.gq/filmes/500dias-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Advogado do Diabo
+http://midgard.lhmtv.gq/filmes/advogadododiabo-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="https://www.ejectsurf.com.br/wp-content/uploads/2017/05/blogdestacada.png" group-title="Filmes",Dracula – O Príncipe das Trevas
+http://midgard.lhmtv.gq/filmes/draculaprincipedastrevas-dub-720p.mp4?LHMTv
+
+#EXTINF:-1,Um Grito de liberdade
+http://midgard.lhmtv.gq/filmes/gritodeliberdade-dub-720p.mp4?LHMTv
+#EXTINF:-1,Um Sonho de liberdade
+http://midgard.lhmtv.gq/filmes/umsonhodeliberdade-dub-720p.mp4?LHMTv
+#EXTINF:-1,Uma saida de mestre
+http://midgard.lhmtv.gq/filmes/umasaidademestre-dub-720p.mp4?LHMTv
+#EXTINF:-1,Atividade Paranormal - Dimensao Fantasma
+http://midgard.lhmtv.gq/filmes/dimensaofantasma-dub-720p.mp4?LHMTv
+#EXTINF:-1,Atividade Paranormal 2
+http://midgard.lhmtv.gq/filmes/atividadeparanormal2-dub-720p.mp4?LHMTv
+#EXTINF:-1,Amizade Desfeita
+http://midgard.lhmtv.gq/filmes/amizadedesfeita-dub-720p.mp4?LHMTv
+#EXTINF:-1,Amizade Desfeita 2
+http://midgard.lhmtv.gq/filmes/amizadedesfeita2-dub-720p.mp4?LHMTv
+#EXTINF:-1,O Escorpiao Rei
+http://midgard.lhmtv.gq/filmes/oescorpiaorei-dub-720p.mp4?LHMTv
+#EXTINF:-1,O Escorpiao Rei 2: A Saga De Um Guerreiro
+http://midgard.lhmtv.gq/filmes/oescorpiaorei2-dub-720p.mp4?LHMTv
+#EXTINF:-1,Sai de Baixo – O Filme
+http://midgard.lhmtv.gq/filmes/saidebaixoofilme-dub-720p.mp4?LHMTv
+#EXTINF:-1,Minha Vida em Marte
+http://midgard.lhmtv.gq/filmes/minhavidaemmartei-dub-720p.mp4?LHMTv
+#EXTINF:-1,Nao se Aceitam Devolucoes
+http://midgard.lhmtv.gq/filmes/naoseaceitamdevolucoes-dub-720p.mp4?LHMTv
+#EXTINF:-1,10 Segundos para Vencer
+http://midgard.lhmtv.gq/filmes/10segundosparavencer-dub-720p.mp4?LHMTv
+#EXTINF:-1,10 Coisas que eu odeio em voce
+http://bifrost.lhmtv.gq/filmes/10coisasqueeuodeioemvoce.mp4?LHMTv
+#EXTINF:-1,22 Milhas
+http://bifrost.lhmtv.gq/filmes/22Milhas.mp4?LHMTv
+#EXTINF:-1,A Bela e a Fera
+http://bifrost.lhmtv.gq/filmes/abelaeafera.mp4?LHMTv
+#EXTINF:-1,A Dama do Espelho - Ritual das Trevas
+http://bifrost.lhmtv.gq/filmes/adamadoespelhooritualdastrevas.mp4?LHMTv
+#EXTINF:-1,A Forca
+http://bifrost.lhmtv.gq/filmes/aforca.mp4?LHMTv
+#EXTINF:-1,A Forca 2
+http://bifrost.lhmtv.gq/filmes/aforca2.mp4?LHMTv
+#EXTINF:-1,Alice Atraves do Espelho
+http://bifrost.lhmtv.gq/filmes/aliceatravesdoespelho.mp4?LHMTv
+#EXTINF:-1,Alice No Pais das Maravilhas
+http://bifrost.lhmtv.gq/filmes/alicenopaisdasmaravilhas.mp4?LHMTv
+#EXTINF:-1,Anjos e Demonios
+http://bifrost.lhmtv.gq/filmes/anjosedemonios.mp4?LHMTv
+#EXTINF:-1,A Pequena Sereia
+http://bifrost.lhmtv.gq/filmes/apequenasereia.mp4?LHMTv
+#EXTINF:-1,A.I. - Inteligência Artificial
+http://bifrost.lhmtv.gq/filmes/artificialintelligence.mp4?LHMTv
+#EXTINF:-1,Asilo do Medo
+http://bifrost.lhmtv.gq/filmes/asilodomedo.mp4?LHMTv
+#EXTINF:-1,Asterix e o Segredo da Pocao Magica
+http://bifrost.lhmtv.gq/filmes/asterixeosegredodapocaomagica.mp4?LHMTv
+#EXTINF:-1,A Vida moderna de Rocko - Volta ao lar
+http://bifrost.lhmtv.gq/filmes/avidamodernaderockovoltaaolar.mp4?LHMTv
+#EXTINF:-1,A Vinganca de Leftybrown
+http://bifrost.lhmtv.gq/filmes/avingancadeleftybrown.mp4?LHMTv
+#EXTINF:-1,Bacurau
+http://bifrost.lhmtv.gq/filmes/bacurau.mp4?LHMTv
+#EXTINF:-1,Bom Comportamente
+http://bifrost.lhmtv.gq/filmes/bomcomportamento.mp4?LHMTv
+#EXTINF:-1,Branca de Neve e os Sete Anoes
+http://bifrost.lhmtv.gq/filmes/brancadeneveeosseteanoes.mp4?LHMTv
+#EXTINF:-1,Canguru Jack
+http://bifrost.lhmtv.gq/filmes/cangurujack.mp4?LHMTv
+#EXTINF:-1,Cascavel
+http://bifrost.lhmtv.gq/filmes/cascavel.mp4?LHMTv
+#EXTINF:-1,A Fantastica Fabrica de Chocolate
+http://bifrost.lhmtv.gq/filmes/charlieandthechocolatefactory.mp4?LHMTv
+#EXTINF:-1,cisne Negro
+http://bifrost.lhmtv.gq/filmes/cisnenegro.mp4?LHMTv
+#EXTINF:-1,Cloverfield
+http://bifrost.lhmtv.gq/filmes/cloverfield.mp4?LHMTv
+#EXTINF:-1,Criancas Malignas
+http://bifrost.lhmtv.gq/filmes/criancasmalignas.mp4?LHMTv
+#EXTINF:-1,Death Note Iluminando um novo mundo
+http://bifrost.lhmtv.gq/filmes/deathnoteiluminandoumnovomundo.mp4?LHMTv
+#EXTINF:-1,Dora e a Cidade Perdida
+http://bifrost.lhmtv.gq/filmes/doraeacidadeperdida.mp4?LHMTv
+#EXTINF:-1,Doze Homens e outro Segredo
+http://bifrost.lhmtv.gq/filmes/dozehomenseoutrosegredo.mp4?LHMTv
+#EXTINF:-1,Ela
+http://bifrost.lhmtv.gq/filmes/ela.mp4?LHMTv
+#EXTINF:-1,Emoji O Filme
+http://bifrost.lhmtv.gq/filmes/emojiofilme.mp4?LHMTv
+#EXTINF:-1,Ex_Machina: Instinto Artificial
+http://bifrost.lhmtv.gq/filmes/exmachina.mp4?LHMTv
+#EXTINF:-1,Exterminio
+http://bifrost.lhmtv.gq/filmes/exterminio.mp4?LHMTv
+#EXTINF:-1,Exterminio 2
+http://bifrost.lhmtv.gq/filmes/exterminio2.mp4?LHMTv
+#EXTINF:-1,Feiticeiros de Waverlyplace
+http://bifrost.lhmtv.gq/filmes/feiticeirosdewaverlyplace.mp4?LHMTv
+#EXTINF:-1,Fragmentado
+http://bifrost.lhmtv.gq/filmes/fragmentado.mp4?LHMTv
+#EXTINF:-1,Guardiaes de Oz
+http://bifrost.lhmtv.gq/filmes/guardiaesdeoz.mp4?LHMTv
+#EXTINF:-1,Independence Day: O Ressurgimento
+http://bifrost.lhmtv.gq/filmes/independencedayoressurgimento.mp4?LHMTv
+#EXTINF:-1,Indiana Jones 4 e o Reino da Caveira de Cristal
+http://bifrost.lhmtv.gq/filmes/indianajones4eoreinodacaveiradecristal.mp4?LHMTv
+#EXTINF:-1,Khali O Assassino
+http://bifrost.lhmtv.gq/filmes/khalioassassino.mp4?LHMTv
+#EXTINF:-1,Legalidade
+http://bifrost.lhmtv.gq/filmes/legalidade.mp4?LHMTv
+#EXTINF:-1,Leo Da Vinci: Missao Mona Lisa
+http://bifrost.lhmtv.gq/filmes/leodavincimissaomonalisa.mp4?LHMTv
+#EXTINF:-1,Madmax Estrada da Furia
+http://bifrost.lhmtv.gq/filmes/madmaxestradadafuria.mp4?LHMTv
+#EXTINF:-1,Malevola
+http://bifrost.lhmtv.gq/filmes/malevola.mp4?LHMTv
+#EXTINF:-1,Marvel Rising: Coracao de Ferro
+http://bifrost.lhmtv.gq/filmes/marvelrisingcoracaodeferro.mp4?LHMTv
+#EXTINF:-1,Matilda
+http://bifrost.lhmtv.gq/filmes/matilda.mp4?LHMTv
+#EXTINF:-1,Millennium
+http://bifrost.lhmtv.gq/filmes/millennium.mp4?LHMTv
+#EXTINF:-1,Missao Catmandu: As Aventuras de Nelly e Simon
+http://bifrost.lhmtv.gq/filmes/missaocatmanduasaventurasdenellyesimon.mp4?LHMTv
+#EXTINF:-1,Mulher Maravilha - Linhagem de Sangue
+http://bifrost.lhmtv.gq/filmes/mulhermaravilhalinhagemdesangue.mp4?LHMTv
+#EXTINF:-1,Nem que a vaca tussa
+http://bifrost.lhmtv.gq/filmes/nemqueavacatussa.mp4?LHMTv
+#EXTINF:-1,Nextgen
+http://bifrost.lhmtv.gq/filmes/nextgen.mp4?LHMTv
+#EXTINF:-1,O Artista do Desastre
+http://bifrost.lhmtv.gq/filmes/oartistadodesastre.mp4?LHMTv
+#EXTINF:-1,O Chefe
+http://bifrost.lhmtv.gq/filmes/ochefe.mp4?LHMTv
+#EXTINF:-1,O Espanta Tubaroes
+http://bifrost.lhmtv.gq/filmes/oespantatubaroes.mp4?LHMTv
+#EXTINF:-1,O Exterminador do Futuro
+http://bifrost.lhmtv.gq/filmes/oexterminadordofuturo.mp4?LHMTv
+#EXTINF:-1,O Exterminador do Futuro 2 - O Julgamento Final
+http://bifrost.lhmtv.gq/filmes/oexterminadordofuturo2ojulgamentofinal.mp4?LHMTv
+#EXTINF:-1,O Exterminador do Futuro 3
+http://bifrost.lhmtv.gq/filmes/oexterminadordofuturo3.mp4?LHMTv
+#EXTINF:-1,O Exterminador do Futuro Salvacao
+http://bifrost.lhmtv.gq/filmes/oexterminadordofuturoasalvacao.mp4?LHMTv
+#EXTINF:-1,O Impossivel 4
+http://bifrost.lhmtv.gq/filmes/oimpossivel.mp4?LHMTv
+#EXTINF:-1,O Lago dos Tubaroes
+http://bifrost.lhmtv.gq/filmes/olagodostubaroes.mp4?LHMTv
+#EXTINF:-1,O Misterio das duas irmas
+http://bifrost.lhmtv.gq/filmes/omisteriodasduasirmas.mp4?LHMTv
+#EXTINF:-1,Onze homens e um segredo
+http://bifrost.lhmtv.gq/filmes/onzehomenseumsegredo.mp4?LHMTv
+#EXTINF:-1,O Pianista
+http://bifrost.lhmtv.gq/filmes/opianista.mp4?LHMTv
+#EXTINF:-1,O Poderoso Chefao
+http://bifrost.lhmtv.gq/filmes/opoderosochefao1.mp4?LHMTv
+#EXTINF:-1,O Poderoso Chefao 2
+http://bifrost.lhmtv.gq/filmes/opoderosochefao2.mp4?LHMTv
+#EXTINF:-1,O Poderoso Chefao 3
+http://bifrost.lhmtv.gq/filmes/opoderosochefao3.mp4?LHMTv
+#EXTINF:-1,O Quarto de Jack
+http://bifrost.lhmtv.gq/filmes/oquartodejack.mp4?LHMTv
+#EXTINF:-1,O Reino do Superman
+http://bifrost.lhmtv.gq/filmes/oreinodosuperman.mp4?LHMTv
+#EXTINF:-1,O Segredo dos Animais
+http://bifrost.lhmtv.gq/filmes/osegredodosanimais.mp4?LHMTv
+#EXTINF:-1,Os Jovens Titas em Acao! Nos Cinemas
+http://bifrost.lhmtv.gq/filmes/osjovenstitasemacaonoscinemas.mp4?LHMTv
+#EXTINF:-1,Os Perdedores
+http://bifrost.lhmtv.gq/filmes/osperdedores.mp4?LHMTv
+#EXTINF:-1,O Touro Ferdinando
+http://bifrost.lhmtv.gq/filmes/otouroferdinando.mp4?LHMTv
+#EXTINF:-1,Patrick: Aprendendo a Amar
+http://bifrost.lhmtv.gq/filmes/patrickaprendendoaamar.mp4?LHMTv
+#EXTINF:-1,Pedro Coelho
+http://bifrost.lhmtv.gq/filmes/pedrocoelho.mp4?LHMTv
+#EXTINF:-1,Pequena Miss Sunshine
+http://bifrost.lhmtv.gq/filmes/pequenamisssunshine.mp4?LHMTv
+#EXTINF:-1,Ploey: Voce Nunca Voara So
+http://bifrost.lhmtv.gq/filmes/ploeyvocenuncavoarasozinho.mp4?LHMTv
+#EXTINF:-1,Por Agua a Baixo
+http://bifrost.lhmtv.gq/filmes/poraguaabaixo.mp4?LHMTv
+#EXTINF:-1,Poseidon
+http://bifrost.lhmtv.gq/filmes/poseidon.mp4?LHMTv
+#EXTINF:-1,Precisamos Falar Sobre o Kevin
+http://bifrost.lhmtv.gq/filmes/precisamosfalarsobrekevin.mp4?LHMTv
+#EXTINF:-1,Premonicao 5
+http://bifrost.lhmtv.gq/filmes/premonicao5.mp4?LHMTv
+#EXTINF:-1,Quarteto Fantastico
+http://bifrost.lhmtv.gq/filmes/quartetofantastico.mp4?LHMTv
+#EXTINF:-1,Rango
+http://bifrost.lhmtv.gq/filmes/rango.mp4?LHMTv
+#EXTINF:-1,Ruby Sparks - A Namorada Perfeita
+http://bifrost.lhmtv.gq/filmes/rubysparksanamoradaperfeita.mp4?LHMTv
+#EXTINF:-1,Scooby-Doo! De Volta a Ilha Dos Zumbis
+http://bifrost.lhmtv.gq/filmes/scoobydoodevoltaailhadoszumbis.mp4?LHMTv
+#EXTINF:-1,Se beber nao case
+http://bifrost.lhmtv.gq/filmes/sebebernaocase1.mp4?LHMTv
+#EXTINF:-1,Se beber nao case 2
+http://bifrost.lhmtv.gq/filmes/ebebernaocase2.mp4?LHMTv
+#EXTINF:-1,Se beber nao case 3
+http://bifrost.lhmtv.gq/filmes/sebebernaocase3.mp4?LHMTv
+#EXTINF:-1,Seguranca de Shopping
+http://bifrost.lhmtv.gq/filmes/segurancadeshopping.mp4?LHMTv
+#EXTINF:-1,Seguranca de Shopping 2
+http://bifrost.lhmtv.gq/filmes/segurancadeshopping2.mp4?LHMTv
+#EXTINF:-1,Shopkins Aventura Selvagem
+http://bifrost.lhmtv.gq/filmes/shopkinsaventuraselvagem.mp4?LHMTv
+#EXTINF:-1,Sobreviva a Noite
+http://bifrost.lhmtv.gq/filmes/sobrevivaanoite.mp4?LHMTv
+#EXTINF:-1,Stephanie
+http://bifrost.lhmtv.gq/filmes/stephanie.mp4?LHMTv
+#EXTINF:-1,Suspiria
+http://bifrost.lhmtv.gq/filmes/suspiria.mp4?LHMTv
+#EXTINF:-1,Ta Chovendo Hamburguer
+http://bifrost.lhmtv.gq/filmes/tachovendohamburguer1.mp4?LHMTv
+#EXTINF:-1,Ta Chovendo Hamburguer 2
+http://bifrost.lhmtv.gq/filmes/tachovendohamburguer2.mp4?LHMTv
+#EXTINF:-1,Treze Homens e um novo segredo
+http://bifrost.lhmtv.gq/filmes/trezehomenseumnovosegredo.mp4?LHMTv
+#EXTINF:-1,Um Amor para Recordar
+http://bifrost.lhmtv.gq/filmes/umamorpararecordar.mp4?LHMTv
+#EXTINF:-1,Viagem Maldita
+http://bifrost.lhmtv.gq/filmes/viagemmaldita.mp4?LHMTv
+#EXTINF:-1,Viagem Maldita 2
+http://bifrost.lhmtv.gq/filmes/viagemmaldita2.mp4?LHMTv
+#EXTINF:-1,Wallacee Gromit - A Batalha dos Vegetais
+http://bifrost.lhmtv.gq/filmes/wallaceegromitabatalhadosvegetais.mp4?LHMTv
+#EXTINF:-1,Watchmen o Filme
+http://bifrost.lhmtv.gq/filmes/watchmenofilme.mp4?LHMTv
+#EXTINF:-1,Rock - Um Lutador Op2
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky1.mp4?LHMTv
+#EXTINF:-1,Rock 2 - A Revanche Op2
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky2.mp4?LHMTv
+#EXTINF:-1,Rock 3 - O Desafio Supremo Op2
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky3.mp4?LHMTv
+#EXTINF:-1,Rock 4 Op2
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky4.mp4?LHMTv
+#EXTINF:-1,Rock V Op2
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky5.mp4?LHMTv
+#EXTINF:-1,Rock 6 Op2
+http://nidavellir.lhmtv.gq/Filmes/Dublados/Trilogia.Rock.Um.Lutador/Rocky6.mp4?LHMTv
+#EXTINF:-1,7 Desejos
+http://nidavellir.lhmtv.gq/Servidor/108/7dj087.mp4?LHMTv
+#EXTINF:-1,As Aventuras De Pi
+http://nidavellir.lhmtv.gq/Servidor/aadp4j.mp4?LHMTv
+#EXTINF:-1,A Muralha HD
+http://nidavellir.lhmtv.gq/Servidor/agmhd7.mp4?LHMTv
+#EXTINF:-1,A Longa Caminhada De Billy Lynns
+http://nidavellir.lhmtv.gq/Servidor/alcd4s.mp4?LHMTv
+#EXTINF:-1,A Baba
+http://nidavellir.lhmtv.gq/Servidor/108/abb087.mp4?LHMTv
+#EXTINF:-1,Annabelle 2 A Criacao Do Mal
+http://nidavellir.lhmtv.gq/Servidor/108/a2a087.mp4?LHMTv
+#EXTINF:-1,Ao Cair Da Noite
+http://nidavellir.lhmtv.gq/Servidor/108/acd087.mp4?LHMTv
+#EXTINF:-1,A Mumia
+http://nidavellir.lhmtv.gq/Servidor/108/am108.mp4?LHMTv
+#EXTINF:-1,Amores Canibais
+http://nidavellir.lhmtv.gq/Servidor/108/ac108.mp4?LHMTv
+#EXTINF:-1,Carros 3
+http://nidavellir.lhmtv.gq/Servidor/108/crs3087.mp4?LHMTv
+#EXTINF:-1,Depois Da Terra
+http://nidavellir.lhmtv.gq/Servidor/ddt4ad.mp4?LHMTv
+#EXTINF:-1,Detetives Do Predio Azul O Filme
+http://nidavellir.lhmtv.gq/Servidor/108/ddp087.mp4?LHMTv
+#EXTINF:-1,Dirty Dancing O Musical
+http://nidavellir.lhmtv.gq/Servidor/108/ddo087.mp4?LHMTv
+#EXTINF:-1,Expresso Do Amanha
+http://nidavellir.lhmtv.gq/Servidor/108/eda087.mp4?LHMTv
+#EXTINF:-1,Fim Do Jogo
+http://nidavellir.lhmtv.gq/Servidor/108/fdjo087.mp4?LHMTv
+#EXTINF:-1,Jogo Perigoso
+http://nidavellir.lhmtv.gq/Servidor/108/jp108.mp4?LHMTv
+#EXTINF:-1,Lady Macbeth
+http://nidavellir.lhmtv.gq/Servidor/108/lmt087.mp4?LHMTv
+#EXTINF:-1,Melanie A Ultima Esperanca
+http://nidavellir.lhmtv.gq/Servidor/108/maue087.mp4?LHMTv
+#EXTINF:-1,Meu Malvado Favorito 3
+http://nidavellir.lhmtv.gq/Servidor/108/mmf087.mp4?LHMTv
+#EXTINF:-1,Mune O Guardiao Da Lua
+http://nidavellir.lhmtv.gq/Servidor/108/mog087.mkv?LHMTv
+#EXTINF:-1,Nossas Noites
+http://nidavellir.lhmtv.gq/Servidor/108/nn108.mp4?LHMTv
+#EXTINF:-1,No Limite Do Amanha
+http://nidavellir.lhmtv.gq/Servidor/nlda4k.mp4?LHMTv
+#EXTINF:-1,O Bar
+http://nidavellir.lhmtv.gq/Servidor/108/ob108.mp4?LHMTv
+#EXTINF:-1,O Mago Das Mentiras
+http://nidavellir.lhmtv.gq/Servidor/108/omm08.mp4?LHMTv
+#EXTINF:-1,O Reino Gelado 3 - Fogo E Gelo HD
+http://nidavellir.lhmtv.gq/Servidor/108/org38.mp4?LHMTv
+#EXTINF:-1,Ouro E Cobica
+http://nidavellir.lhmtv.gq/Servidor/108/oc108.mp4?LHMTv
+#EXTINF:-1,O Afogamento
+http://nidavellir.lhmtv.gq/Servidor/108/oaf087.mp4?LHMTv
+#EXTINF:-1,O Culto De Chucky
+http://nidavellir.lhmtv.gq/Servidor/108/occ087.mp4?LHMTv
+#EXTINF:-1,O Livro De Henry
+http://nidavellir.lhmtv.gq/Servidor/108/olh087.mp4?LHMTv
+#EXTINF:-1,Pacific Rim
+http://nidavellir.lhmtv.gq/Servidor/cdf4sc.mp4?LHMTv
+#EXTINF:-1,Planeta Dos Macacos A Guerra
+http://nidavellir.lhmtv.gq/Servidor/108/pmg087.mp4?LHMTv
+#EXTINF:-1,Patrulha Caca Fantasma
+http://nidavellir.lhmtv.gq/Servidor/108/pcf08.mp4?LHMTv
+#EXTINF:-1,Perdido Em Marte
+http://nidavellir.lhmtv.gq/Servidor/pembn4.mp4?LHMTv
+#EXTINF:-1,Pixels
+http://nidavellir.lhmtv.gq/Servidor/pxknb4.mp4?LHMTv
+#EXTINF:-1,Stratton  Forcas Especiais
+http://nidavellir.lhmtv.gq/Servidor/108/sfe087.mp4?LHMTv
+#EXTINF:-1,Star Trek Beyond
+http://nidavellir.lhmtv.gq/Servidor/stsf4k.mp4?LHMTv
+#EXTINF:-1,Transformers O Ultimo Cavaleiro
+http://nidavellir.lhmtv.gq/Servidor/108/tuc08.mp4?LHMTv
+#EXTINF:-1,Trenk O Cavaleiro Trapalhao
+http://nidavellir.lhmtv.gq/Servidor/108/tct087.mp4?LHMTv
+#EXTINF:-1,Truque De Mestre
+http://nidavellir.lhmtv.gq/Servidor/tdmo4k.mp4?LHMTv
+#EXTINF:-1,Um Suburbano Sortudo
+http://nidavellir.lhmtv.gq/Servidor/108/usso087.mp4?LHMTv
+#EXTINF:-1,Uma Familia De Dois
+http://nidavellir.lhmtv.gq/Servidor/108/ud2087.mp4?LHMTv
+#EXTINF:-1,Uma Agente Muito Louca
+http://nidavellir.lhmtv.gq/Servidor/108/uam08.mp4?LHMTv
+#EXTINF:-1,Vencendo O Passado
+http://nidavellir.lhmtv.gq/Servidor/108/vop087.mp4?LHMTv
+#EXTINF:-1,Wheelman
+http://nidavellir.lhmtv.gq/Servidor/108/wlm087.mp4?LHMTv
+
+
